@@ -8,14 +8,12 @@ Performance of SuperStore stores through the US between 2014 and 2017
 
 
 ## Data Cleaning Log
----
-**Project:** Retail Performance Analysis
-**Dataset:** Superstore Sales (Kaggle)
-**Tool:** MariaDB via phpMyAdmin
-**Date:** March 2026
-**Analyst:** Michael Covelli
----
-1. #### Dataset Overview
+**Project:** Retail Performance Analysis  
+**Dataset:** Superstore Sales (Kaggle)  
+**Tool:** MariaDB via phpMyAdmin  
+**Date:** March 2026  
+**Analyst:** Michael Covelli  
+1. ### Dataset Overview
    | Attribute  | Detail  |
    | ---------  | ------- |
    | Source | Superstore Sales (Kaggle) |
@@ -26,7 +24,7 @@ Performance of SuperStore stores through the US between 2014 and 2017
    | Date Range | January 2014 - December 2017 |
    | Granularity | One row per product per order |
    
-2. #### Data Dictionary
+2. ### Data Dictionary
    | # | Column  | Type  |   Description |
    | --- | ---------  | ------- | -------- |
    | 1 | Row ID | INT | Unique Row Identifier  |
