@@ -1,11 +1,11 @@
 # SuperStoreSalesAnalysis
 Performance of SuperStore stores through the US between 2014 and 2017  
 
+### Incomplete  
+Data Cleaning Log  
+Presentation
+
 ### [Tableau Viz](https://public.tableau.com/views/SuperStoreSalesAnalysis-MichaelCovelli/OverallPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
-
-
 
 ## Data Cleaning Log
 **Project:** Retail Performance Analysis  
@@ -50,3 +50,5 @@ Performance of SuperStore stores through the US between 2014 and 2017
    | 21 | Quantity | INT | Number of units purchased |
    | 22 | Discount | DECIMAL(3,2) | Discount applied (0.0 - 0.8) |
    | 23 | Profit | DECIMAL(10,4) | Profit or loss from sale  |
+
+### In Progress...
