@@ -1,5 +1,5 @@
 # Super Store Sales Analysis by Michael Covelli
-Performance of SuperStore stores through the US between 2014 and 2017  
+Performance of SuperStore stores throughout the US between January 2014 and December 2017  
 
 ### [Tableau Viz](https://public.tableau.com/views/SuperStoreSalesAnalysis-MichaelCovelli/OverallPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
