@@ -162,3 +162,8 @@ Performance of SuperStore stores throughout the US between January 2014 and Dece
    - Geographic data limited to United States only
    - Discount values as high as 80% may reflect aggressive pricing policies or potential data entry errors — retained for analysis purposes
    - No customer demographic data available for segmentation beyond Segment field
+  
+
+*MIT licensed*
+
+[Kaggle Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
